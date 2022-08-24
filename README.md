@@ -34,3 +34,5 @@ The backend is written in TypeScript, builds with ts-node with nodemon and uses 
 - Backend gets latest messages for a channel and compares the number given in header
 - Backend responses to the client if the values don't match or saves the response for later use
 - When a new message is posted then responses for all of the long pollers are given
+
+https://user-images.githubusercontent.com/1713194/186390685-b26b0727-d863-414d-a13e-f646edd6f46c.mov
